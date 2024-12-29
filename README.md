@@ -22,8 +22,8 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Run the API Server
 
 ```sh
-npm run build
+npm run server
 ```
